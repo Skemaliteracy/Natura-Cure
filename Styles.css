@@ -1,0 +1,83 @@
+body{
+  background: rgb(64, 244, 206);
+  font-family: 'Aref Ruqaa', serif;
+  color: white;
+  font-size: 25px;
+  margin: 0px;
+  font-family: Helvetica;
+}
+#title{
+  font-family: 'Pacifico', cursive;
+  color: green;
+  font-weight: lighter;
+  font-size: 77px;
+  vertical-align: bottom;}
+h2 {
+ font-family: 'Aref Ruqaa', serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 56px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: pink;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("épinards.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: green;
+  text-shadow: 1px 1px 5px green;
+}
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: 'Pacifico', cursive;
+  margin: 0;
+}
+h1{
+  font-family: Courier;
+  background:rgba(184, 195, 214,0.5);
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+  font-family: 'Alegreya', serif;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
